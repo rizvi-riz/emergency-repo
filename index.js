@@ -197,3 +197,8 @@ for(let i =0 ; i<allCopyButton.length; i++){
     copyBtn.innerText = copyCount + ' Copy'
     })
 }
+
+
+
+
+
